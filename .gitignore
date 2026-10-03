@@ -1,0 +1,4 @@
+# Raw data (download via python/download_data.py)
+data/raw/
+__pycache__/
+.ipynb_checkpoints/
